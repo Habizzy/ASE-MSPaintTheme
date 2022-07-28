@@ -1,0 +1,20 @@
+{
+  "name": "MSPaint-Theme",
+  "displayName": "MS Paint Theme",
+  "description": "An MS-Paint Inspired Theme",
+  "version": "1.0",
+  "author": { "name": "Haboocas", "email": "--", "url": "https://twitter.com/Haboocas/" },
+  "contributors": [
+    { "name": "Haboocas", "url": "https://twitter.com/Haboocas/" }
+  ],
+  "publisher": "Haboocas",
+  "license": "CC-BY-4.0",
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      { "id": "mspaint", "path": "." }
+    ]
+  }
+}
